@@ -81,7 +81,7 @@
     "jest": "^24.9.0",
     "markdown-toc": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "parcel": "^1.12.3",
+    "parcel": "^2.8.2",
     "pre-commit": "^1.2.2",
     "prettier": "^1.6.1",
     "react": "^16.8.0",
